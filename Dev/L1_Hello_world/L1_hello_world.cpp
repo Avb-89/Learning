@@ -22,7 +22,7 @@ int main()
 	std::cout << "HHHH       HHHH EEEEEE     LLLLL            LLLLL           OOO        OOO !!!! !!!! !!!!   " << std::endl;
 	std::cout << "HHHH       HHHH EEE        LLLLL            LLLLL           OOO        OOO !!!! !!!! !!!!   " << std::endl;
 	std::cout << "HHHH       HHHH EEE        LLLLL            LLLLL           OOO        OOO !!!! !!!! !!!!   " << std::endl;
-	std::cout << "HHHH       HHHH EEEEEEEEE  LLLLLLLLLLLLLLL  LLLLLLLLLLLLLLL OOOOOOOOOOOOOO				          " << std::endl;
+	std::cout << "HHHH       HHHH EEEEEEEEE  LLLLLLLLLLLLLLL  LLLLLLLLLLLLLLL OOOOOOOOOOOOOO				  " << std::endl;
 	std::cout << "HHHH       HHHH EEEEEEEEE  LLLLLLLLLLLLLLL  LLLLLLLLLLLLLLL OOOOOOOOOOOOOO !!!! !!!! !!!!   " << std::endl;
 	std::cout << "HHHH       HHHH EEEEEEEEE  LLLLLLLLLLLLLLL  LLLLLLLLLLLLLLL OOOOOOOOOOOOOO !!!! !!!! !!!!   " << std::endl;
 

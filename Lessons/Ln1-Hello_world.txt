@@ -88,7 +88,8 @@ c++ имя_файла.cpp -o имя_выходного_бинарника # ко
 2)  Git failed with a fatal error.
 error: open("Dev/L1_Hello_world/.vs/L1_Hello_world/v16/Browse.VC.opendb"): Permission denied
 fatal: Unable to process path Dev/L1_Hello_world/.vs/L1_Hello_world/v16/Browse.VC.opendb
-
-
+----ответ----
+В корень проекта нужно добавить .gitignore взять можно от сюда:
+https://github.com/github/gitignore/blob/f51f0baa5a721f0af6fbf0ae377ecd86c6eaa3b4/VisualStudio.gitignore
 
 Следующий урок: Переменные и типы данных в C++ →.
