@@ -93,4 +93,5 @@ fatal: Unable to process path Dev/L1_Hello_world/.vs/L1_Hello_world/v16/Browse.V
 взять можно от сюда:
 https://github.com/github/gitignore/blob/f51f0baa5a721f0af6fbf0ae377ecd86c6eaa3b4/VisualStudio.gitignore
 
+
 Следующий урок: Переменные и типы данных в C++ →.
