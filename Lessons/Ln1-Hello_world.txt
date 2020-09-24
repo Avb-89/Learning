@@ -1,5 +1,5 @@
 ﻿Первая программа на C++ — урок 1
-
+https://code-live.ru/post/cpp-hello-world/#more
 =========================       Подготовка          =============================================
 В качестве среды разработки под Windows автор советует использовать Visual Studio
 
@@ -93,3 +93,4 @@ fatal: Unable to process path Dev/L1_Hello_world/.vs/L1_Hello_world/v16/Browse.V
 https://github.com/github/gitignore/blob/f51f0baa5a721f0af6fbf0ae377ecd86c6eaa3b4/VisualStudio.gitignore
 
 Следующий урок: Переменные и типы данных в C++ →.
+https://code-live.ru/post/cpp-variables-and-datatypes/
