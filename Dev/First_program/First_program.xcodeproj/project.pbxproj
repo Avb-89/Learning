@@ -20,6 +20,9 @@
 
 /* Begin PBXFileReference section */
 		7AC658CF2E81BEF600551EA4 /* First_program */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = First_program; sourceTree = BUILT_PRODUCTS_DIR; };
+		7AC658DD2E81C2DD00551EA4 /* handbook.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = handbook.txt; sourceTree = "<group>"; };
+		7AC658DE2E81C2DD00551EA4 /* Ln1-Hello_world.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "Ln1-Hello_world.md"; sourceTree = "<group>"; };
+		7AC658DF2E81C2DD00551EA4 /* Ln2-Data_type.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "Ln2-Data_type.txt"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -44,6 +47,7 @@
 		7AC658C62E81BEF600551EA4 = {
 			isa = PBXGroup;
 			children = (
+				7AC658E02E81C2DD00551EA4 /* Lessons */,
 				7AC658D12E81BEF600551EA4 /* First_program */,
 				7AC658D02E81BEF600551EA4 /* Products */,
 			);
@@ -56,6 +60,17 @@
 			);
 			name = Products;
 			sourceTree = "<group>";
+		};
+		7AC658E02E81C2DD00551EA4 /* Lessons */ = {
+			isa = PBXGroup;
+			children = (
+				7AC658DD2E81C2DD00551EA4 /* handbook.txt */,
+				7AC658DE2E81C2DD00551EA4 /* Ln1-Hello_world.md */,
+				7AC658DF2E81C2DD00551EA4 /* Ln2-Data_type.txt */,
+			);
+			name = Lessons;
+			path = "/Users/sitis/Library/Mobile Documents/com~apple~CloudDocs/Developnet/C++/Learning/Lessons";
+			sourceTree = "<absolute>";
 		};
 /* End PBXGroup section */
 
